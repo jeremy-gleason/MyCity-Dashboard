@@ -6,7 +6,7 @@ MyCity Dashboard provides the tools to retrieve and analyze important data about
 
 ## Implementation Details
 
-MyCity is developed in Java, using an n-tier architecture and object-oriented best practices. It's composed of packages that parse massive datasets, perform detailed analysis as specified by the user, and display the results in an easy-to-use interface. It was built using test-driven development with JUnit and makes use of software design patterns and memoization to ensure high quality code and efficient performance.
+MyCity is developed in Java, using an n-tier architecture and object-oriented best practices. It's composed of packages that parse massive JSON datasets, perform detailed analysis as specified by the user, and display the results in an easy-to-use interface. It was built using test-driven development with JUnit and makes use of software design patterns and memoization to ensure high quality code and efficient performance.
 
 ## Usage/Access
 
