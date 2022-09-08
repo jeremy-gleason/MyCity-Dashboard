@@ -2,7 +2,7 @@
 
 ## Overview
 
-MyCity Dashboard provides the tools to retrieve and analyze important data about your local city. It parses/processes public datasets to generate a large store of information about your local area which you can then analyze across a variety of metrics.
+MyCity Dashboard is an all-in-one system to retrieve and analyze data pertaining to the city of Philadelphia. It parses datasets from the OpenDataPhilly repository, processing over 500,000 population, property, and Covid-19 records in order to perform analysis across a variety of metrics.
 
 ## Implementation Details
 
